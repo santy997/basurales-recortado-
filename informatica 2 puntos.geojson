@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "informatica 2 puntos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "id": 73.0, "id_bca": "bca73", "municipio": "Malvinas Argentinas", "zonificaci": "rural", "dominio": null, "gestion": null, "no_activo": "no activo", "supt": 90.0, "supimpactd": 46.6, "latitud": -34.470658, "longitud": -58.730894, "observacio": null, "nombre": "Malvinas Argentinas", "nomencla": "133", "cod_indec": "06515", "zonas": "RESERVA ENSANCHE URBANO", "u_c_r": "COMPLEMENTARIA", "sag": "Ministerio Ambiente PBA", "fun": "2" }, "geometry": { "type": "Point", "coordinates": [ -58.730894, -34.470658 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "id": 61.0, "id_bca": "bca61", "municipio": "JosÃƒÂ© Clemente Paz", "zonificaci": "rural ?", "dominio": null, "gestion": null, "no_activo": "no activo", "supt": 14.0, "supimpactd": 10.0, "latitud": -34.506097, "longitud": -58.820756, "observacio": null, "nombre": "Jose C. Paz", "nomencla": "132", "cod_indec": "06412", "zonas": "AGROPECUARIA", "u_c_r": "RURAL", "sag": "Ministerio Ambiente PBA", "fun": "2" }, "geometry": { "type": "Point", "coordinates": [ -58.820756, -34.506097 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "id": 60.0, "id_bca": "bca60", "municipio": "JosÃƒÂ© Clemente Paz", "zonificaci": "urbana", "dominio": null, "gestion": null, "no_activo": "activo", "supt": 1.0, "supimpactd": 0.8, "latitud": -34.495433, "longitud": -58.788283, "observacio": null, "nombre": "Jose C. Paz", "nomencla": "132", "cod_indec": "06412", "zonas": "RESIDENCIAL EXTRAURBANA", "u_c_r": "URBANA", "sag": "Ministerio Ambiente PBA", "fun": "6" }, "geometry": { "type": "Point", "coordinates": [ -58.788283, -34.495433 ] } }
+]
+}
